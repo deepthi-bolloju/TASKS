@@ -1,4 +1,5 @@
 📊 Task 2: Data Visualization & Storytelling
+
 📌 Project Overview This project analyzes the Sample Superstore dataset using Tableau to uncover key business insights related to sales performance, profitability, discount impact, and product performance.
 
 The goal of this dashboard is to help business stakeholders understand:
